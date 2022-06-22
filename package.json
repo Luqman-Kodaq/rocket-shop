@@ -14,7 +14,7 @@
     "sinon": "^7.5.0"
   },
   "dependencies": {
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "moment": "^2.24.0"
   }
 }
